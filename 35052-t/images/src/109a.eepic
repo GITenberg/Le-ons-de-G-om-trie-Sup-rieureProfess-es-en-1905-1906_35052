@@ -1,0 +1,32 @@
+%% Generated from 109a.xp on Sat Jan 22 21:28:18 EST 2011 by
+%% ePiX-1.2.4
+%% 
+%%   Cartesian bounding box: [-1,1] x [-1,1]
+%%   Actual size: 2.5 x 2.5in
+%%   Figure offset: left by 0in, down by 0in
+%% 
+%% usepackages tikz
+%% 
+\xdefinecolor{rgb_000000}{rgb}{0,0,0}%
+\begin{tikzpicture}
+\pgfsetlinewidth{0.4pt}
+\useasboundingbox (0in,0in) rectangle (2.5in,2.5in);
+\pgfsetlinewidth{0.8pt}
+\draw (1.25in,1.25in)--(1.74114in,1.40883in)--(2.18058in,1.55093in);
+\draw (1.25in,1.25in)--(1.33553in,1.84523in)--(1.43034in,2.50498in);
+\draw (1.25in,1.25in)--(2.20206in,2.11407in);
+\pgfsetfillcolor{rgb_000000}
+\draw [fill](2.18742in,2.10078in)--(2.16208in,2.04041in)--
+  (2.20206in,2.11407in)--(2.12488in,2.08139in)--(2.18742in,2.10078in)--cycle;
+\draw (1.25in,1.25in)--(1.73605in,0.246699in);
+\draw [fill](1.72928in,0.260679in)--(1.68406in,0.290552in)--
+  (1.73605in,0.246699in)--(1.73387in,0.314682in)--(1.72928in,0.260679in)--cycle;
+\draw (1.25in,1.25in)--(0.307353in,1.80315in);
+\draw [fill](0.320408in,1.79549in)--(0.373578in,1.79637in)--
+  (0.307353in,1.80315in)--(0.345566in,1.74864in)--(0.320408in,1.79549in)--cycle;
+\pgftext[at={\pgfpoint{2.23593in}{1.55093in}}] {\makebox(0,0)[bl]{\hbox{\color{rgb_000000}$D(p, q, r)$}}}
+\pgftext[at={\pgfpoint{1.48569in}{2.50498in}}] {\makebox(0,0)[l]{\hbox{\color{rgb_000000}$D'(p', q', r')$}}}
+\pgftext[at={\pgfpoint{2.25741in}{2.11407in}}] {\makebox(0,0)[l]{\hbox{\color{rgb_000000}$\Delta(\alpha, \beta, \gamma)$}}}
+\pgftext[at={\pgfpoint{1.7914in}{0.246699in}}] {\makebox(0,0)[bl]{\hbox{\color{rgb_000000}$\alpha', \beta', \gamma'$}}}
+\pgftext[at={\pgfpoint{0.307353in}{1.85849in}}] {\makebox(0,0)[bl]{\hbox{\color{rgb_000000}$\alpha'', \beta'', \gamma''$}}}
+\end{tikzpicture}

@@ -1,0 +1,109 @@
+%% Generated from 300a.xp on Sat Jan 22 21:29:09 EST 2011 by
+%% ePiX-1.2.4
+%% 
+%%   Cartesian bounding box: [-0.5,1] x [-1.5,1]
+%%   Actual size: 2.4 x 4in
+%%   Figure offset: left by 0in, down by 0in
+%% 
+%% usepackages tikz
+%% 
+\xdefinecolor{rgb_000000}{rgb}{0,0,0}%
+\xdefinecolor{rgb_ffffff}{rgb}{1,1,1}%
+\begin{tikzpicture}
+\pgfsetlinewidth{0.4pt}
+\useasboundingbox (0in,0in) rectangle (2.4in,4in);
+\pgfsetlinewidth{0.8pt}
+\draw (2.17601in,2.80099in)--(1.28161in,2.54035in)--(0.387193in,2.2797in);
+\pgfsetstrokecolor{rgb_ffffff}
+\pgfsetlinewidth{3pt}
+\draw (1.31109in,1.30785in)--(1.31109in,2.38483in)--(1.3111in,3.46181in);
+\pgfsetstrokecolor{rgb_000000}
+\pgfsetlinewidth{0.8pt}
+\draw (0.8in,2.4in)--(1.43887in,2.38103in)--(2.07773in,2.36207in);
+\pgfsetstrokecolor{rgb_ffffff}
+\pgfsetlinewidth{3pt}
+\draw (1.31109in,2.95922in)--(1.64527in,2.44118in)--(1.97945in,1.92315in);
+\draw (1.31109in,2.95922in)--(1.65608in,2.6905in)--(2.00107in,2.42178in);
+\pgfsetstrokecolor{rgb_000000}
+\pgfsetlinewidth{0.8pt}
+\draw (1.31109in,2.95922in)--(1.64527in,2.44118in)--(1.97945in,1.92315in);
+\draw (1.31109in,2.95922in)--(1.69441in,2.66064in)--(2.07773in,2.36207in);
+\draw (1.01624in,3.01316in)--(1.74356in,2.8801in)--(2.47086in,2.74705in);
+\draw (1.31109in,2.95922in)--(1.05555in,2.67961in)--(0.8in,2.4in);
+\draw (1.88117in,1.48422in)--(2.07773in,2.36207in)--(2.27429in,3.2399in);
+\draw (1.31109in,1.30785in)--(1.31109in,2.38483in)--(1.3111in,3.46181in);
+\pgfsetstrokecolor{rgb_ffffff}
+\pgfsetlinewidth{3pt}
+\draw (1.27178in,2.20926in)--(1.33075in,2.18542in)--(1.38973in,2.16157in);
+\pgfsetstrokecolor{rgb_000000}
+\pgfsetlinewidth{0.8pt}
+\draw (1.97945in,1.92315in)--(1.21281in,2.2331in)--(0.446167in,2.54305in);
+\draw (0.414714in,2.23143in)--(0.433978in,2.24254in)--
+  (0.453242in,2.25336in)--(0.472507in,2.2639in)--
+  (0.491771in,2.27415in)--(0.511035in,2.28413in)--
+  (0.5303in,2.29382in)--(0.549564in,2.30324in)--
+  (0.568828in,2.31237in)--(0.588093in,2.32122in)--
+  (0.607357in,2.32979in)--(0.626621in,2.33808in)--
+  (0.645886in,2.34608in)--(0.66515in,2.35381in)--
+  (0.684414in,2.36125in)--(0.703678in,2.36841in)--
+  (0.722943in,2.37529in)--(0.742207in,2.38189in)--
+  (0.761471in,2.38821in)--(0.780736in,2.39425in)--(0.8in,2.4in)--
+  (0.819264in,2.40547in)--(0.838529in,2.41066in)--
+  (0.857793in,2.41557in)--(0.877057in,2.4202in)--
+  (0.896321in,2.42455in)--(0.915586in,2.42862in)--
+  (0.93485in,2.4324in)--(0.954114in,2.4359in)--
+  (0.973379in,2.43913in)--(0.992643in,2.44207in)--
+  (1.01191in,2.44472in)--(1.03117in,2.4471in)--(1.05044in,2.4492in)--
+  (1.0697in,2.45101in)--(1.08896in,2.45254in)--(1.10823in,2.4538in)--
+  (1.12749in,2.45477in)--(1.14676in,2.45545in)--
+  (1.16602in,2.45586in)--(1.18529in,2.45599in);
+\draw (2.06006in,1.56507in)--(2.04846in,1.5833in)--
+  (2.03766in,1.6015in)--(2.02766in,1.61967in)--(2.01846in,1.6378in)--
+  (2.01005in,1.65589in)--(2.00244in,1.67395in)--
+  (1.99562in,1.69198in)--(1.9896in,1.70997in)--
+  (1.98438in,1.72792in)--(1.97995in,1.74584in)--
+  (1.97632in,1.76373in)--(1.97348in,1.78158in)--
+  (1.97144in,1.7994in)--(1.9702in,1.81718in)--(1.96975in,1.83493in)--
+  (1.9701in,1.85264in)--(1.97124in,1.87032in)--
+  (1.97318in,1.88796in)--(1.97592in,1.90557in)--
+  (1.97945in,1.92315in)--(1.98378in,1.94069in)--
+  (1.98891in,1.95819in)--(1.99483in,1.97566in)--
+  (2.00155in,1.9931in)--(2.00906in,2.0105in)--(2.01737in,2.02786in)--
+  (2.02648in,2.0452in)--(2.03638in,2.06249in)--
+  (2.04708in,2.07975in)--(2.05857in,2.09698in)--
+  (2.07086in,2.11418in)--(2.08395in,2.13133in)--
+  (2.09783in,2.14846in)--(2.11251in,2.16555in)--
+  (2.12799in,2.1826in)--(2.14426in,2.19962in)--(2.16133in,2.2166in)--
+  (2.17919in,2.23355in)--(2.19785in,2.25047in)--(2.2173in,2.26735in);
+\draw (0.965123in,3.25227in)--(0.982422in,3.2267in)--
+  (0.999721in,3.20228in)--(1.01702in,3.17901in)--
+  (1.03432in,3.15689in)--(1.05162in,3.13592in)--
+  (1.06891in,3.1161in)--(1.08621in,3.09743in)--(1.10351in,3.0799in)--
+  (1.12081in,3.06353in)--(1.13811in,3.0483in)--
+  (1.15541in,3.03422in)--(1.17271in,3.02129in)--(1.19in,3.00951in)--
+  (1.2073in,2.99888in)--(1.2246in,2.9894in)--(1.2419in,2.98106in)--
+  (1.2592in,2.97388in)--(1.2765in,2.96784in)--(1.2938in,2.96296in)--
+  (1.31109in,2.95922in)--(1.32839in,2.95663in)--
+  (1.34569in,2.95518in)--(1.36299in,2.95489in)--
+  (1.38029in,2.95575in)--(1.39759in,2.95775in)--
+  (1.41489in,2.96091in)--(1.43218in,2.96521in)--
+  (1.44948in,2.97066in)--(1.46678in,2.97726in)--
+  (1.48408in,2.98501in)--(1.50138in,2.99391in)--
+  (1.51868in,3.00395in)--(1.53598in,3.01515in)--
+  (1.55327in,3.02749in)--(1.57057in,3.04098in)--
+  (1.58787in,3.05563in)--(1.60517in,3.07142in)--
+  (1.62247in,3.08835in)--(1.63977in,3.10644in)--(1.65706in,3.12568in);
+\pgftext[at={\pgfpoint{0.8in}{2.34465in}}] {\makebox(0,0)[t]{\hbox{\color{rgb_000000}$\omega$}}}
+\pgftext[at={\pgfpoint{0.442388in}{2.20376in}}] {\makebox(0,0)[t]{\hbox{\color{rgb_000000}$(\gamma)$}}}
+\pgftext[at={\pgfpoint{2.08773in}{1.5374in}}] {\makebox(0,0)[t]{\hbox{\color{rgb_000000}$(c)$}}}
+\pgftext[at={\pgfpoint{1.68474in}{3.15335in}}] {\makebox(0,0)[l]{\hbox{\color{rgb_000000}$(k)$}}}
+\pgftext[at={\pgfpoint{1.25574in}{1.81044in}}] {\makebox(0,0)[r]{\hbox{\color{rgb_000000}$M'$}}}
+\filldraw[color=rgb_000000] (1.31109in,1.81044in) circle(0.0207555in);
+\pgftext[at={\pgfpoint{1.33877in}{2.34332in}}] {\makebox(0,0)[tl]{\hbox{\color{rgb_000000}$\theta$}}}
+\pgftext[at={\pgfpoint{1.33877in}{2.98689in}}] {\makebox(0,0)[bl]{\hbox{\color{rgb_000000}$M$}}}
+\pgftext[at={\pgfpoint{2.00713in}{1.92315in}}] {\makebox(0,0)[tl]{\hbox{\color{rgb_000000}$F'$}}}
+\pgftext[at={\pgfpoint{2.10541in}{2.36207in}}] {\makebox(0,0)[l]{\hbox{\color{rgb_000000}$H$}}}
+\pgftext[at={\pgfpoint{2.20369in}{2.82866in}}] {\makebox(0,0)[bl]{\hbox{\color{rgb_000000}$F$}}}
+\pgftext[at={\pgfpoint{1.33877in}{3.43413in}}] {\makebox(0,0)[tl]{\hbox{\color{rgb_000000}$D$}}}
+\pgftext[at={\pgfpoint{2.30197in}{3.2399in}}] {\makebox(0,0)[l]{\hbox{\color{rgb_000000}$\Delta$}}}
+\end{tikzpicture}
