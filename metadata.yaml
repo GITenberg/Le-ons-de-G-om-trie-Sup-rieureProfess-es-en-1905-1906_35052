@@ -1,0 +1,32 @@
+_repo: Le-ons-de-G-om-trie-Sup-rieureProfess-es-en-1905-1906_35052
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vessiot, Ernest
+    birthdate: 1865
+    deathdate: 1952
+    gutenberg_agent_id: '37427'
+    url: http://www.gutenberg.org/2009/agents/37427
+    wikipedia: http://fr.wikipedia.org/wiki/Ernest_Vessiot
+description: ''
+gutenberg_bookshelf:
+- FR Sciences et Techniques
+- Mathematics
+gutenberg_issued: '2011-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35052'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Geometry, Analytic'
+title: 'Leçons de Géométrie Supérieure
+
+  Professées en 1905-1906'
+url: http://www.gutenberg.org/ebooks/35052
