@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37427
     wikipedia: http://fr.wikipedia.org/wiki/Ernest_Vessiot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35052#Le-ons-de-G-om-trie-Sup-rieureProfess-es-en-1905-1906
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - Mathematics
